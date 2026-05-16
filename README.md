@@ -48,6 +48,13 @@ Ahmedabad, Bangalore, Chennai, Delhi, Faisalabad, Hyderabad, Islamabad, Jaipur, 
 ## 📷 Dashboard Preview
 <img width="2545" height="1376" alt="Screenshot 2026-05-16 143254" src="https://github.com/user-attachments/assets/dc462084-a08f-4190-806f-11b57d1e35ff" />
 
+---
+
+✨ This README will make your repo look polished and professional. It highlights your dashboard, dataset, insights, and usage instructions — perfect for showcasing your skills.  
+
+Since you already uploaded a **dashboard screenshot**, I recommend saving it as `dashboard.png` in your repo so the preview section displays correctly.  
+
+Would you like me to also create a **GitHub banner/header image** (like a branded cover for your repo) so it visually stands out when people visit?
 
 ---
 
