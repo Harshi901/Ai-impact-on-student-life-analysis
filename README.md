@@ -46,7 +46,8 @@ Ahmedabad, Bangalore, Chennai, Delhi, Faisalabad, Hyderabad, Islamabad, Jaipur, 
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard Screenshot](dashboard.png)
+<img width="2545" height="1376" alt="Screenshot 2026-05-16 143254" src="https://github.com/user-attachments/assets/dc462084-a08f-4190-806f-11b57d1e35ff" />
+
 
 ---
 
