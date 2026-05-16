@@ -1,8 +1,6 @@
 # Ai-impact-on-student-life-analysis
 “Power BI dashboard analyzing AI tool usage and academic impact among students.”
 # 📊 AI Impact on Student Life Analysis
-# 📊 AI Impact on Student Life Analysis
-
 ## 📌 Overview
 This project analyzes how students across 15 cities use AI tools in their academic life, focusing on usage patterns, satisfaction levels, and grade outcomes.  
 The dashboard was built in **Power BI** and provides interactive insights into the role of AI in education.
